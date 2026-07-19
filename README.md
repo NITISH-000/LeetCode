@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NITISH-000/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/NITISH-000/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NITISH-000/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
