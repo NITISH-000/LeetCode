@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/NITISH-000/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1920-build-array-from-permutation](https://github.com/NITISH-000/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/NITISH-000/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
