@@ -10,17 +10,20 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1470-shuffle-the-array](https://github.com/NITISH-000/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NITISH-000/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/NITISH-000/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NITISH-000/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NITISH-000/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NITISH-000/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
+| [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +41,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/NITISH-000/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
