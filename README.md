@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/NITISH-000/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NITISH-000/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/NITISH-000/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NITISH-000/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/NITISH-000/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NITISH-000/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
