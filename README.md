@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NITISH-000/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITISH-000/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/NITISH-000/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NITISH-000/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NITISH-000/LeetCode/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITISH-000/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -48,4 +50,12 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/NITISH-000/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITISH-000/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITISH-000/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
