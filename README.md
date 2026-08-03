@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/NITISH-000/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NITISH-000/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NITISH-000/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/NITISH-000/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITISH-000/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/NITISH-000/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NITISH-000/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NITISH-000/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NITISH-000/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -69,5 +71,6 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITISH-000/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NITISH-000/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/NITISH-000/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/NITISH-000/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
